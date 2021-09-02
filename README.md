@@ -1,4 +1,4 @@
-## Oii! eu sou a Luana Souza
+## Oii! Eu sou a Luana Souza
 
  <div>
   <a href="https://github.com/LuanaSVieira">
